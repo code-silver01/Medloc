@@ -4,7 +4,7 @@
 
 ### Edge AI Physiological State Monitor for Soldiers
 
-*Built by **Wire We Here** — Omi Agarwal · Jiya Agarwal · Ishi Jain · Aditya Goel*
+
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite)](https://vitejs.dev)
