@@ -290,18 +290,6 @@ Medloc/
 
 ---
 
-## Team
-
-**Wire We Here**
-
-| Name | Role |
-|---|---|
-| Omi Agarwal | Hardware & Embedded Systems |
-| Jiya Agarwal | ML Model & Baseline Algorithm |
-| Ishi Jain | Sensor Integration & Firmware |
-| Aditya Goel | Web Dashboard & System Architecture |
-
----
 
 <div align="center">
 
